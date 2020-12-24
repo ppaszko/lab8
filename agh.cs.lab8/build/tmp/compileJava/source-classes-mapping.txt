@@ -1,0 +1,40 @@
+agh/cs/lab8/Vector2d.java
+ agh.cs.lab8.Vector2d
+agh/cs/lab8/JSONLoader.java
+ agh.cs.lab8.JSONLoader
+agh/cs/lab8/IMyLittleWorldMap.java
+ agh.cs.lab8.IMyLittleWorldMap
+agh/cs/lab8/AnimalInfo.java
+ agh.cs.lab8.AnimalInfo
+agh/cs/lab8/MapDirection.java
+ agh.cs.lab8.MapDirection
+ agh.cs.lab8.MapDirection$1
+agh/cs/lab8/CreateMyLittleWorld.java
+ agh.cs.lab8.CreateMyLittleWorld
+agh/cs/lab8/MyLittleWorldStartWindow.java
+ agh.cs.lab8.MyLittleWorldStartWindow
+ agh.cs.lab8.MyLittleWorldStartWindow$1
+agh/cs/lab8/World.java
+ agh.cs.lab8.World
+agh/cs/lab8/MyLittleWorldSizes.java
+ agh.cs.lab8.MyLittleWorldSizes
+agh/cs/lab8/DNAcreator.java
+ agh.cs.lab8.DNAcreator
+agh/cs/lab8/Food.java
+ agh.cs.lab8.Food
+agh/cs/lab8/Lifecycle.java
+ agh.cs.lab8.Lifecycle
+agh/cs/lab8/MyLittleWorldFollowAnimal.java
+ agh.cs.lab8.MyLittleWorldFollowAnimal
+agh/cs/lab8/MyLittleWorldPlayground.java
+ agh.cs.lab8.MyLittleWorldPlayground
+agh/cs/lab8/MyLittleWorldStatistics.java
+ agh.cs.lab8.MyLittleWorldStatistics
+agh/cs/lab8/MyLittleWorld.java
+ agh.cs.lab8.MyLittleWorld
+agh/cs/lab8/IChangePosition.java
+ agh.cs.lab8.IChangePosition
+agh/cs/lab8/AbstractMyLittleWorldMap.java
+ agh.cs.lab8.AbstractMyLittleWorldMap
+agh/cs/lab8/Animal.java
+ agh.cs.lab8.Animal

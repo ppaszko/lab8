@@ -1,0 +1,460 @@
+Day 0
+Living animals: 20
+Animals in heaven: 0
+Plants: 69
+Mean death age: 0
+Mean energy: 50.0
+Mean kids: 0.0
+Most common genotype: 
+[0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 6, 6, 6, 7, 7, 7]
+
+Day 0
+Living animals: 20
+Animals in heaven: 0
+Plants: 69
+Mean death age: 0
+Mean energy: 50.0
+Mean kids: 0.0
+Most common genotype: 
+[0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 6, 6, 6, 7, 7, 7]
+
+Day 1
+Living animals: 21
+Animals in heaven: 0
+Plants: 69
+Mean death age: 0
+Mean energy: 48.57143
+Mean kids: 0.0952381
+Most common genotype: 
+[0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 6, 6, 6, 7, 7, 7]
+
+Day 2
+Living animals: 21
+Animals in heaven: 0
+Plants: 70
+Mean death age: 0
+Mean energy: 48.52381
+Mean kids: 0.0952381
+Most common genotype: 
+[0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 6, 6, 6, 7, 7, 7]
+
+Day 3
+Living animals: 21
+Animals in heaven: 0
+Plants: 71
+Mean death age: 0
+Mean energy: 48.47619
+Mean kids: 0.0952381
+Most common genotype: 
+[0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 6, 6, 6, 7, 7, 7]
+
+Day 4
+Living animals: 23
+Animals in heaven: 0
+Plants: 72
+Mean death age: 0
+Mean energy: 44.217392
+Mean kids: 0.26086956
+Most common genotype: 
+[0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 6, 6, 6, 7, 7, 7]
+
+Day 5
+Living animals: 23
+Animals in heaven: 0
+Plants: 71
+Mean death age: 0
+Mean energy: 45.826088
+Mean kids: 0.26086956
+Most common genotype: 
+[0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 6, 6, 6, 7, 7, 7]
+
+Day 6
+Living animals: 23
+Animals in heaven: 0
+Plants: 72
+Mean death age: 0
+Mean energy: 45.695652
+Mean kids: 0.26086956
+Most common genotype: 
+[0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 6, 6, 6, 7, 7, 7]
+
+Day 7
+Living animals: 23
+Animals in heaven: 0
+Plants: 72
+Mean death age: 0
+Mean energy: 46.434784
+Mean kids: 0.26086956
+Most common genotype: 
+[0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 6, 6, 6, 7, 7, 7]
+
+Day 8
+Living animals: 23
+Animals in heaven: 0
+Plants: 72
+Mean death age: 0
+Mean energy: 46.304348
+Mean kids: 0.26086956
+Most common genotype: 
+[0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 6, 6, 6, 7, 7, 7]
+
+Day 9
+Living animals: 23
+Animals in heaven: 0
+Plants: 72
+Mean death age: 0
+Mean energy: 47.04348
+Mean kids: 0.26086956
+Most common genotype: 
+[0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 6, 6, 6, 7, 7, 7]
+
+Day 9
+Living animals: 23
+Animals in heaven: 0
+Plants: 72
+Mean death age: 0
+Mean energy: 47.04348
+Mean kids: 0.26086956
+Most common genotype: 
+[0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 6, 6, 6, 7, 7, 7]
+
+Day 9
+Living animals: 23
+Animals in heaven: 0
+Plants: 72
+Mean death age: 0
+Mean energy: 47.04348
+Mean kids: 0.26086956
+Most common genotype: 
+[0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 6, 6, 6, 7, 7, 7]
+
+Day 9
+Living animals: 23
+Animals in heaven: 0
+Plants: 72
+Mean death age: 0
+Mean energy: 47.04348
+Mean kids: 0.26086956
+Most common genotype: 
+[0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 6, 6, 6, 7, 7, 7]
+
+Day 9
+Living animals: 23
+Animals in heaven: 0
+Plants: 72
+Mean death age: 0
+Mean energy: 47.04348
+Mean kids: 0.26086956
+Most common genotype: 
+[0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 6, 6, 6, 7, 7, 7]
+
+Day 10
+Living animals: 24
+Animals in heaven: 0
+Plants: 73
+Mean death age: 0
+Mean energy: 44.958332
+Mean kids: 0.33333334
+Most common genotype: 
+[0, 0, 0, 0, 0, 0, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 6, 6, 6, 7, 7, 7, 7]
+
+Day 11
+Living animals: 24
+Animals in heaven: 0
+Plants: 73
+Mean death age: 0
+Mean energy: 45.625
+Mean kids: 0.33333334
+Most common genotype: 
+[0, 0, 0, 0, 0, 0, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 6, 6, 6, 7, 7, 7, 7]
+
+Day 12
+Living animals: 24
+Animals in heaven: 0
+Plants: 74
+Mean death age: 0
+Mean energy: 45.458332
+Mean kids: 0.33333334
+Most common genotype: 
+[0, 0, 0, 0, 0, 0, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 6, 6, 6, 7, 7, 7, 7]
+
+Day 13
+Living animals: 25
+Animals in heaven: 0
+Plants: 72
+Mean death age: 0
+Mean energy: 45.88
+Mean kids: 0.4
+Most common genotype: 
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7]
+
+Day 14
+Living animals: 25
+Animals in heaven: 0
+Plants: 72
+Mean death age: 0
+Mean energy: 46.48
+Mean kids: 0.4
+Most common genotype: 
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7]
+
+Day 15
+Living animals: 25
+Animals in heaven: 0
+Plants: 73
+Mean death age: 0
+Mean energy: 46.28
+Mean kids: 0.4
+Most common genotype: 
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7]
+
+Day 16
+Living animals: 25
+Animals in heaven: 0
+Plants: 73
+Mean death age: 0
+Mean energy: 46.08
+Mean kids: 0.4
+Most common genotype: 
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7]
+
+Day 17
+Living animals: 25
+Animals in heaven: 0
+Plants: 75
+Mean death age: 0
+Mean energy: 45.08
+Mean kids: 0.4
+Most common genotype: 
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7]
+
+Day 18
+Living animals: 25
+Animals in heaven: 0
+Plants: 76
+Mean death age: 0
+Mean energy: 44.88
+Mean kids: 0.4
+Most common genotype: 
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7]
+
+Day 19
+Living animals: 25
+Animals in heaven: 0
+Plants: 77
+Mean death age: 0
+Mean energy: 44.68
+Mean kids: 0.4
+Most common genotype: 
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7]
+
+Day 20
+Living animals: 25
+Animals in heaven: 0
+Plants: 77
+Mean death age: 0
+Mean energy: 44.48
+Mean kids: 0.4
+Most common genotype: 
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7]
+
+Day 21
+Living animals: 25
+Animals in heaven: 0
+Plants: 79
+Mean death age: 0
+Mean energy: 43.48
+Mean kids: 0.4
+Most common genotype: 
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7]
+
+Day 22
+Living animals: 25
+Animals in heaven: 0
+Plants: 79
+Mean death age: 0
+Mean energy: 44.08
+Mean kids: 0.4
+Most common genotype: 
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7]
+
+Day 23
+Living animals: 25
+Animals in heaven: 0
+Plants: 78
+Mean death age: 0
+Mean energy: 44.68
+Mean kids: 0.4
+Most common genotype: 
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7]
+
+Day 24
+Living animals: 25
+Animals in heaven: 0
+Plants: 80
+Mean death age: 0
+Mean energy: 43.68
+Mean kids: 0.4
+Most common genotype: 
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7]
+
+Day 25
+Living animals: 25
+Animals in heaven: 0
+Plants: 82
+Mean death age: 0
+Mean energy: 42.68
+Mean kids: 0.4
+Most common genotype: 
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7]
+
+Day 26
+Living animals: 24
+Animals in heaven: 1
+Plants: 82
+Mean death age: 22
+Mean energy: 44.291668
+Mean kids: 0.41666666
+Most common genotype: 
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7]
+
+Day 27
+Living animals: 24
+Animals in heaven: 1
+Plants: 84
+Mean death age: 22
+Mean energy: 43.291668
+Mean kids: 0.41666666
+Most common genotype: 
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7]
+
+Day 28
+Living animals: 24
+Animals in heaven: 1
+Plants: 86
+Mean death age: 22
+Mean energy: 42.291668
+Mean kids: 0.41666666
+Most common genotype: 
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7]
+
+Day 29
+Living animals: 24
+Animals in heaven: 1
+Plants: 85
+Mean death age: 22
+Mean energy: 43.791668
+Mean kids: 0.41666666
+Most common genotype: 
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7]
+
+Day 30
+Living animals: 24
+Animals in heaven: 1
+Plants: 85
+Mean death age: 22
+Mean energy: 43.625
+Mean kids: 0.41666666
+Most common genotype: 
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7]
+
+Day 31
+Living animals: 24
+Animals in heaven: 1
+Plants: 85
+Mean death age: 22
+Mean energy: 44.291668
+Mean kids: 0.41666666
+Most common genotype: 
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7]
+
+Day 32
+Living animals: 24
+Animals in heaven: 1
+Plants: 85
+Mean death age: 22
+Mean energy: 44.958332
+Mean kids: 0.41666666
+Most common genotype: 
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7]
+
+Day 33
+Living animals: 24
+Animals in heaven: 1
+Plants: 84
+Mean death age: 22
+Mean energy: 45.625
+Mean kids: 0.41666666
+Most common genotype: 
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7]
+
+Day 34
+Living animals: 24
+Animals in heaven: 1
+Plants: 82
+Mean death age: 22
+Mean energy: 47.125
+Mean kids: 0.41666666
+Most common genotype: 
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7]
+
+Day 35
+Living animals: 24
+Animals in heaven: 1
+Plants: 81
+Mean death age: 22
+Mean energy: 47.791668
+Mean kids: 0.41666666
+Most common genotype: 
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7]
+
+Day 36
+Living animals: 24
+Animals in heaven: 1
+Plants: 83
+Mean death age: 22
+Mean energy: 46.791668
+Mean kids: 0.41666666
+Most common genotype: 
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7]
+
+Day 37
+Living animals: 24
+Animals in heaven: 1
+Plants: 83
+Mean death age: 22
+Mean energy: 47.458332
+Mean kids: 0.41666666
+Most common genotype: 
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7]
+
+Day 38
+Living animals: 24
+Animals in heaven: 1
+Plants: 83
+Mean death age: 22
+Mean energy: 47.291668
+Mean kids: 0.41666666
+Most common genotype: 
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7]
+
+Day 39
+Living animals: 23
+Animals in heaven: 2
+Plants: 82
+Mean death age: 30
+Mean energy: 49.217392
+Mean kids: 0.39130434
+Most common genotype: 
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7]
+
+Day 40
+Living animals: 23
+Animals in heaven: 3
+Plants: 81
+Mean death age: 33
+Mean energy: 50.869564
+Mean kids: 0.4347826
+Most common genotype: 
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7]
+

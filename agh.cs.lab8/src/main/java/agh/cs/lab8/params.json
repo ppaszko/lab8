@@ -1,0 +1,11 @@
+{
+  "width": 30,
+  "height": 30,
+  "jungle_ratio": 0.1,
+  "number_of_plants": 70,
+  "food_energy": 20,
+  "start_energy": 50,
+  "initial_animals": 20,
+  "move_energy": 1,
+  "days_to_file_saving": 40
+}
